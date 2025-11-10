@@ -1,0 +1,21 @@
+.char {
+	color: #7FC7FF;
+	margin-left: 50px;
+	font-family: helvetica;
+	font-size: 20px;
+}
+#contacts {
+	color: red;
+}
+
+.char:hover {
+	color: pink;
+}
+
+html {
+	background-color: #fcdd76;
+}
+
+.stylesheet {
+	font-size: 15px;
+}
